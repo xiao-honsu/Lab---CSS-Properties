@@ -1,0 +1,12 @@
+body, h1 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    font-size: x-large;
+}
